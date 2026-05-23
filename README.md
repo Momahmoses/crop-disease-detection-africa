@@ -3,7 +3,7 @@
 A mobile-ready AI system that diagnoses crop diseases from phone photos in 45 seconds, with treatment advice in Hausa, Yoruba, and Igbo. Runs offline on a Raspberry Pi.
 
 ## Problem
-A farmer in Kaduna notices yellow spots on her maize. No agronomist is nearby. Misidentifying the disease means wrong treatment and a lost harvest — the family's income for the year.
+A farmer in Kaduna notices yellow spots on her maize. No agronomist is nearby. Misidentifying the disease means wrong treatment and a lost harvest, the family's income for the year.
 
 ## Quick Start
 
@@ -62,4 +62,4 @@ Synthetic data generated automatically if dataset not present.
 ## Real Impact
 - Instant diagnosis replaces 30-minute manual inspection
 - Farmers in 3 languages: English, Hausa, Yoruba, Igbo
-- Runs completely offline — no internet required in the field
+- Runs completely offline, no internet required in the field
